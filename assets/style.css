@@ -1,0 +1,65 @@
+body    {
+    color: #777777;
+    font-size: 18px;
+}
+
+img     {
+    width: 250px;
+    height: 200px;
+    padding: 20px;
+}
+
+.main   {
+    background-image: url(rockywall.png);
+    border-bottom: solid #4aaaa5 10px;
+    border-top: #dddddd solid 1px;
+}
+
+.jumbotron  {
+    border: solid #dddddd 1px;
+}
+
+.h1, h2  {
+    font-size: 34px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.h1      {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    padding: 20px;
+}
+
+h2      {
+    color: #4aaaa5;
+    border-bottom: #dddddd solid 2px;
+    padding-bottom: 20px;
+    padding-top: 0px;
+}
+
+a       {
+    text-decoration: none;
+    color: #777777;
+}
+
+.navbar {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+.nav    {
+    color: #777777;
+}
+
+.footer {
+    background-color: #666666;
+}
+
+#copyright    {
+    width: 100%;
+    text-align: center;
+    color: #eeeeee;
+    padding-top: 30px;
+}
